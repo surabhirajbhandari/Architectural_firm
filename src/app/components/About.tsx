@@ -1,5 +1,4 @@
 import { motion } from "motion/react";
-import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 export function About() {
   return (
@@ -42,11 +41,13 @@ export function About() {
             viewport={{ once: true }}
             className="relative h-[500px]"
           >
-            <ImageWithFallback
-              src="https://pixabay.com/photos/temple-utah-mormon-building-2524052/"
+            <img
+              src="/images/about-photo.jpg"
+
               alt="Minimalist architecture interior"
+
               className="w-full h-full object-cover"
-            />
+              />
           </motion.div>
         </div>
       </div>
