@@ -21,8 +21,8 @@ export function About() {
               who inhabit it.
             </p>
             <p className="text-neutral-600 mb-4">
-              Drawing inspiration from Utah's diverse landscapes—from the red rock
-              formations to the snow-capped peaks—we design with respect for our
+              Drawing inspiration from Utah's diverse landscapes, from the red rock
+              formations to the snow-capped peaks, we design with respect for our
               environment. Every project is an opportunity to blend modern aesthetics
               with sustainable practices, creating buildings that stand in harmony
               with their surroundings.
@@ -43,7 +43,7 @@ export function About() {
             className="relative h-[500px]"
           >
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1571273033940-89c3e9bb18b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwYXJjaGl0ZWN0dXJlJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzY2NDc1MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="https://pixabay.com/photos/temple-utah-mormon-building-2524052/"
               alt="Minimalist architecture interior"
               className="w-full h-full object-cover"
             />
