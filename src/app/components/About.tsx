@@ -42,7 +42,7 @@ export function About() {
             className="relative h-[500px]"
           >
             <img
-              src="/images/about-photo.jpg"
+              src="/images/About-photo.jpg"
 
               alt="Minimalist architecture interior"
 
